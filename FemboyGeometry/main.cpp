@@ -1,4 +1,4 @@
-#include <gl/GLUT.h>
+#include <GL/glut.h>
 #include "geometry.h"
 
 #define WIN_WIDTH	640

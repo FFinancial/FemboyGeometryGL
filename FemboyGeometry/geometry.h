@@ -5,13 +5,11 @@
 #endif
 
 #include <math.h>
-#include <gl/GL.h>
-#include <gl/GLU.h>
-#include <gl/GLUT.h>
+#include <GL/glut.h>
 
-#define PI 3.14159
-#define NUM_MODES 5
-#define OMEGA 4.0f
+#define PI          3.14159
+#define NUM_MODES   5
+#define OMEGA       4.0f
 
 
 class GeometryPlayer
